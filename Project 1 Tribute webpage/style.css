@@ -1,0 +1,44 @@
+#main{
+     background: linear-gradient(45deg,#bfa89d,#9db5bf);
+    text-align: center;
+}
+
+#title{
+    color:black;
+    text-align: center;
+    font-family:'Cardo',serif;
+    font-size:150%;
+    line-height: 70%;
+    opacity: inherit;
+    background: linear-gradient(45deg,#bfa89d,#9db5bf);
+    width: 100%;
+    background-color: transparent;
+}
+
+#img-div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5%;
+    color: #a880d9;
+    background: white;
+}
+
+#image{
+    max-width:100%;
+    height: auto;
+    padding-top: 5em;
+}
+
+#img-caption{
+    padding-bottom: 2em;
+    font-size:150%;
+    font-family: 'Cardo';
+}
+
+#tribute-info{
+    display: flex;
+    flex-direction: column;
+    font-size: 150%;
+    justify-content: center;
+}
